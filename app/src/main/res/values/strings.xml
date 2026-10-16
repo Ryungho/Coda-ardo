@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MicroCode</string>
+    <string name="tab_editor">Editor</string>
+    <string name="tab_serial">Serial Monitor</string>
+    <string name="tab_flasher">Flasher &amp; OTA</string>
+    <string name="tab_telemetry">Sensor Graph</string>
+    <string name="tab_boards">Boards</string>
+</resources>

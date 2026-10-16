@@ -1,0 +1,6 @@
+{
+  "name": "MicroCode: Arduino & ESP32",
+  "description": "Comprehensive Arduino and ESP32 IDE featuring code editor, syntax compiler & validator, serial monitor, USB OTG and WiFi OTA firmware flasher, remote board management, and real-time sensor data telemetry with oscilloscope graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
